@@ -1,4 +1,8 @@
 **Дроби**
+numerator and denominator
+reduce a fraction to a common denominator
+raise a fraction to a power of...
+extract the root of a fraction
 
 **Сложение и вычитание**: приводим к общему знаменателю и просто складываем или вычитаем числители.
 
