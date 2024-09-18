@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Terms in English.md",
+                "file": "Hobbies/Achievements.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Word mastery/Художественные приемы.md",
+                "file": "Hobbies/Padel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word mastery/Художественные приемы.md",
+                "file": "Hobbies/Achievements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word mastery/Художественные приемы.md",
+                "file": "Hobbies/Achievements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word mastery/Художественные приемы.md"
+                "file": "Hobbies/Achievements.md"
               }
             }
           }
@@ -179,11 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9dfa27d5e3a4fca",
+  "active": "d452864b0f2a65e6",
   "lastOpenFiles": [
+    "Hobbies/Padel.md",
+    "Hobbies/Tennis.md",
+    "Math/Terms in English.md",
+    "Productivity/Кривая Эббингауза.md",
+    "Hobbies/Shibari.md",
+    "Hobbies/Kiting.md",
+    "Hobbies/Diving.md",
+    "Hobbies/Achievements.md",
+    "Word mastery/Художественные приемы.md",
+    "Hobbies",
     "Word mastery/Структура повествования.md",
     "Word mastery/Риторика.md",
-    "Word mastery/Художественные приемы.md",
     "Word mastery/Аллитерация и Ассонанс.md",
     "Math/Least Common Multiple.md",
     "Math/Greatest Common Divisor.md",
@@ -195,18 +203,10 @@
     "Math/Probability theory.md",
     "Math/Signs of divisibility.md",
     "Math/Sum of 1-n.md",
-    "Math/Terms in English.md",
     "Math/Квадратные Уравнения.md",
     "Math/Распределительные свойства.md",
     "Math/Тригонометрия.md",
     "Math/Проценты.md",
-    "Sword mastery/Fiore de'i Liberi.md",
-    "Sword mastery/Epee.md",
-    "Sword mastery/Rapier.md",
-    "Math/TODO.md",
-    "Sword mastery/Zweihander.md",
-    "Sword mastery/Montante.md",
-    "Sword mastery/Claymore.md",
     "Sword mastery",
     "_resources/math/trigonometry.png",
     "_resources/math",
@@ -216,7 +216,6 @@
     "Math",
     "Word mastery",
     "Острова Ратманова",
-    "Common",
-    "TODO"
+    "Common"
   ]
 }
