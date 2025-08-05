@@ -1,4 +1,11 @@
 .idea
+.obsidian/themes/**
+!.obsidian/themes/MyMado
+!.obsidian/themes/MyMado/**
 .obsidian/plugins
-.obsidian/themes
+.obsidian/graph.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/core-plugins.json
+Programming.iml
 .zettelkasten.iml
